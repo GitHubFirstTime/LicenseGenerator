@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: commons-codec-1.7.jar truelicense.jar trueswing.jar truexml.jar
+Main-Class: com.zyc.ui.LICGen
+
